@@ -1,1 +1,4 @@
 
+node_modules
+Server/node_modules
+icecream-backend/node_modules
