@@ -1,0 +1,30 @@
+{
+  "name": "icecream-backend",
+  "version": "1.0.0",
+  "description": "Backend API for the Ice Cream E-commerce web application",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "nodemon server.js"
+  },
+  "keywords": [
+    "ice-cream",
+    "ecommerce",
+    "express",
+    "mongodb"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bcryptjs": "latest",
+    "cors": "latest",
+    "dotenv": "latest",
+    "express": "latest",
+    "express-async-handler": "latest",
+    "jsonwebtoken": "latest",
+    "mongoose": "latest"
+  },
+  "devDependencies": {
+    "nodemon": "latest"
+  }
+}
